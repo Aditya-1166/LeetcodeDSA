@@ -1,24 +1,13 @@
 class Solution {
 public:
-    static bool cmp(pair<string, int>a, pair<string, int> b) {
-        return a.second > b.second; // Sort in descending order of heights
-    }
-
     vector<string> sortPeople(vector<string>& names, vector<int>& heights) {
-        multimap<string, int> mp;
-        for (int i = 0; i < names.size(); i++) {
-            mp.insert({names[i],heights[i]});
-        }
-        vector<pair<string, int>> A;
-        for (auto& it : mp) {
-            A.push_back(it);
-        }
-        sort(A.begin(), A.end(), cmp);
-        vector<string> res;
-        
-        for (auto it : A) {
-            res.push_back(it.first);
-        }
-        return res;
+        const int n=names.size();
+        vector<pair<int, string>> hn(n);
+        for(int i=0; i<n; i++) 
+            hn[i]={heights[i], names[i]};
+        sort(hn.begin(), hn.end(), greater<>());
+        for(int i=0; i<n; i++) 
+            names[i]=hn[i].second;
+        return names;
     }
 };
