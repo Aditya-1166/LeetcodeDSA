@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2502-sort-the-people) |
 ## Sorting
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
