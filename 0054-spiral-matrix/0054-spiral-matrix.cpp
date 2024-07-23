@@ -31,24 +31,24 @@ public:
             EndingCol--;
 
             // Printing End Row
-            if (StartingRow <= EndingRow) {
+            // if (StartingRow <= EndingRow) {
                 for (int i = EndingCol; count < total && i >= StartingCol; i--) {
                     ans.push_back(matrix[EndingRow][i]);
                     count++;
                 }
                 // Remove last Row
                 EndingRow--;
-            }
+            // }
 
             // Printing 1st Col
-            if (StartingCol <= EndingCol) {
+            // if (StartingCol <= EndingCol) {
                 for (int i = EndingRow; count < total && i >= StartingRow; i--) {
                     ans.push_back(matrix[i][StartingCol]);
                     count++;
                 }
                 // Remove 1st Col
                 StartingCol++;
-            }
+            // }
         }
         return ans;
     }
