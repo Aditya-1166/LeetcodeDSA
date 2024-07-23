@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0567-permutation-in-string) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -31,9 +32,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
