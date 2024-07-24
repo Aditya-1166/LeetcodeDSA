@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0048-rotate-image](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
+| [0204-count-primes](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2502-sort-the-people) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
