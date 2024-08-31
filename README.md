@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0014-longest-common-prefix) |
 | [0443-string-compression](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
