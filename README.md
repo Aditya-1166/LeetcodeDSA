@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0205-isomorphic-strings](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2032-largest-odd-number-in-string) |
 | [2502-sort-the-people](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2502-sort-the-people) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
