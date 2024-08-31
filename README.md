@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2502-sort-the-people) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
