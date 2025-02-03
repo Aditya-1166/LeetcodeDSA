@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0567-permutation-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1250-longest-common-subsequence](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1250-longest-common-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2032-largest-odd-number-in-string) |
 | [2502-sort-the-people](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2502-sort-the-people) |
 ## Sliding Window
@@ -102,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
+| [1250-longest-common-subsequence](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
