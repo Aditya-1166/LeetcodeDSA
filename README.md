@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0567-permutation-in-string) |
