@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0567-permutation-in-string) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0048-rotate-image](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2502-sort-the-people) |
