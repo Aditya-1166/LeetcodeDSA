@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0119-pascals-triangle-ii](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0169-majority-element) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2502-sort-the-people) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Enumeration
 |  |
@@ -120,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
