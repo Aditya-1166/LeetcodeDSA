@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0054-spiral-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
