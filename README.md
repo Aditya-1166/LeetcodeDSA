@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0567-permutation-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2502-sort-the-people) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [1333-sort-the-jumbled-numbers](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2502-sort-the-people) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0054-spiral-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0048-rotate-image](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0204-count-primes) |
 | [2032-largest-odd-number-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2032-largest-odd-number-in-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
