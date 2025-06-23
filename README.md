@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0204-count-primes) |
 | [2032-largest-odd-number-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
