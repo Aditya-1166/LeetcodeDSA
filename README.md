@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0443-string-compression) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0054-spiral-matrix) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0011-container-with-most-water) |
 | [2032-largest-odd-number-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
