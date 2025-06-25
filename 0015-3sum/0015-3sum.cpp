@@ -28,7 +28,6 @@ public:
 
                     // Skip duplicate values for j to avoid repeated triplets
                     while(j<k && nums[j]==nums[j-1]) j++;
-                    while(j<k && nums[k]==nums[k+1]) k--;
                 }
             }
         }
