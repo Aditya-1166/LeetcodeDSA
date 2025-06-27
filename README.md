@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0031-next-permutation](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0567-permutation-in-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0169-majority-element](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0416-partition-equal-subset-sum) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
