@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0125-valid-palindrome](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0567-permutation-in-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | ------- |
 | [0050-powx-n](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 ## Union Find
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0141-linked-list-cycle](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
