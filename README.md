@@ -193,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 |  |
 | ------- |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1245-user-activity-for-the-past-30-days-i) |
+| [1877-find-followers-count](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
