@@ -189,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created By Adi
 | [0328-odd-even-linked-list](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Aditya-1166/LeetcodeDSA/tree/master/1245-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
